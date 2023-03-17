@@ -12,6 +12,7 @@ sites:
   - name: Campus
     url: https://campus.eseade.edu.ar
 
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
