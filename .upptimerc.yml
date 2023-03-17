@@ -13,6 +13,8 @@ sites:
     url: https://app.eseade.edu.ar
   - name: Home
     url: https://www.eseade.edu.ar
+  - name: Canvas
+    url: https://eseade.instructure.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
