@@ -10,7 +10,7 @@ sites:
   - name: Netdata
     url: https://netdata.eseade.edu.ar
   - name: Campus
-    url: https://campus.eseade.edu.ar
+    url: https://app.eseade.edu.ar
   - name: Home
     url: https://www.eseade.edu.ar
 
