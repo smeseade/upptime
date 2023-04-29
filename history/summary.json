@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/educat.eseade.edu.ar.ico",
     "slug": "educat",
     "status": "up",
-    "uptime": "99.15%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.15%",
-    "time": 1374,
-    "timeDay": 1686,
-    "timeWeek": 1739,
-    "timeMonth": 1519,
-    "timeYear": 1374,
+    "uptimeYear": "99.16%",
+    "time": 1384,
+    "timeDay": 1876,
+    "timeWeek": 1762,
+    "timeMonth": 1551,
+    "timeYear": 1384,
     "dailyMinutesDown": {
       "2023-03-18": 512
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.16%",
-    "time": 978,
-    "timeDay": 847,
-    "timeWeek": 935,
-    "timeMonth": 903,
-    "timeYear": 978,
+    "time": 977,
+    "timeDay": 940,
+    "timeWeek": 953,
+    "timeMonth": 920,
+    "timeYear": 977,
     "dailyMinutesDown": {
       "2023-03-18": 509
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.17%",
-    "time": 1245,
-    "timeDay": 817,
-    "timeWeek": 798,
-    "timeMonth": 823,
-    "timeYear": 1245,
+    "time": 1235,
+    "timeDay": 713,
+    "timeWeek": 806,
+    "timeMonth": 826,
+    "timeYear": 1235,
     "dailyMinutesDown": {
       "2023-03-18": 503
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
     "time": 249,
-    "timeDay": 370,
-    "timeWeek": 218,
-    "timeMonth": 259,
+    "timeDay": 267,
+    "timeWeek": 224,
+    "timeMonth": 262,
     "timeYear": 249,
     "dailyMinutesDown": {
       "2023-03-17": 178
@@ -90,11 +90,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 2898,
-    "timeDay": 3026,
-    "timeWeek": 2797,
-    "timeMonth": 2848,
-    "timeYear": 2898,
+    "time": 2906,
+    "timeDay": 2803,
+    "timeWeek": 2906,
+    "timeMonth": 2880,
+    "timeYear": 2906,
     "dailyMinutesDown": {
       "2023-04-28": 17
     }
@@ -131,12 +131,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 282,
-    "timeDay": 158,
-    "timeWeek": 242,
-    "timeMonth": 217,
+    "timeDay": 287,
+    "timeWeek": 246,
+    "timeMonth": 223,
     "timeYear": 282,
     "dailyMinutesDown": {
-      "2023-04-28": 1138,
+      "2023-04-29": 25,
+      "2023-04-28": 1440,
       "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
