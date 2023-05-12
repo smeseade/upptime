@@ -4,11 +4,11 @@
     "url": "http://educat.eseade.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/educat.eseade.edu.ar.ico",
     "slug": "educat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.36%",
     "time": 1462,
     "timeDay": 1932,
@@ -16,6 +16,7 @@
     "timeMonth": 1668,
     "timeYear": 1462,
     "dailyMinutesDown": {
+      "2023-05-12": 3,
       "2023-03-18": 512
     }
   },
@@ -24,10 +25,10 @@
     "url": "http://fa.eseade.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/fa.eseade.edu.ar.ico",
     "slug": "fusionauth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.36%",
     "time": 971,
@@ -36,6 +37,7 @@
     "timeMonth": 949,
     "timeYear": 971,
     "dailyMinutesDown": {
+      "2023-05-12": 2,
       "2023-03-18": 509
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://netdata.eseade.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/netdata.eseade.edu.ar.ico",
     "slug": "netdata",
-    "status": "up",
+    "status": "down",
     "uptime": "99.37%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.37%",
@@ -56,6 +58,7 @@
     "timeMonth": 865,
     "timeYear": 1162,
     "dailyMinutesDown": {
+      "2023-05-12": 0,
       "2023-03-18": 503
     }
   },
@@ -137,7 +140,7 @@
     "timeMonth": 275,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2023-05-12": 26,
+      "2023-05-12": 697,
       "2023-05-11": 1440,
       "2023-05-10": 1440,
       "2023-05-09": 1440,
