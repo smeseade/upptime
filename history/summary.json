@@ -4,9 +4,9 @@
     "url": "http://educat.eseade.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/educat.eseade.edu.ar.ico",
     "slug": "educat",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.61%",
@@ -16,6 +16,7 @@
     "timeMonth": 1738,
     "timeYear": 1653,
     "dailyMinutesDown": {
+      "2023-06-16": 0,
       "2023-03-18": 512
     }
   },
@@ -45,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/netdata.eseade.edu.ar.ico",
     "slug": "netdata",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 1061,
     "timeDay": 740,
     "timeWeek": 838,
@@ -138,7 +139,7 @@
     "timeMonth": 234,
     "timeYear": 267,
     "dailyMinutesDown": {
-      "2023-06-16": 30,
+      "2023-06-16": 1106,
       "2023-06-15": 1440,
       "2023-06-14": 1440,
       "2023-06-13": 1440,
