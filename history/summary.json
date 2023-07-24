@@ -87,9 +87,9 @@
     "url": "https://www.eseade.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/www.eseade.edu.ar.ico",
     "slug": "home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.04%",
     "uptimeYear": "99.74%",
@@ -99,6 +99,7 @@
     "timeMonth": 3075,
     "timeYear": 2907,
     "dailyMinutesDown": {
+      "2023-07-24": 0,
       "2023-06-30": 210,
       "2023-06-29": 209,
       "2023-05-31": 17,
@@ -143,7 +144,7 @@
     "timeMonth": 272,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2023-07-24": 30,
+      "2023-07-24": 872,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
