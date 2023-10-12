@@ -163,9 +163,9 @@
     "url": "https://eseade.instructure.com",
     "icon": "https://icons.duckduckgo.com/ip3/eseade.instructure.com.ico",
     "slug": "canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -175,6 +175,7 @@
     "timeMonth": 697,
     "timeYear": 697,
     "dailyMinutesDown": {
+      "2023-10-12": 0,
       "2023-03-17": 8
     }
   },
@@ -195,7 +196,7 @@
     "timeMonth": 248,
     "timeYear": 262,
     "dailyMinutesDown": {
-      "2023-10-12": 1006,
+      "2023-10-12": 1012,
       "2023-10-11": 1440,
       "2023-10-10": 1440,
       "2023-10-09": 1440,
