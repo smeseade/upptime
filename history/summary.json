@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/educat.eseade.edu.ar.ico",
     "slug": "educat",
     "status": "up",
-    "uptime": "98.78%",
+    "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.54%",
     "uptimeMonth": "98.28%",
     "uptimeYear": "98.78%",
     "time": 2164,
-    "timeDay": 1662,
-    "timeWeek": 5188,
-    "timeMonth": 3546,
+    "timeDay": 1968,
+    "timeWeek": 5037,
+    "timeMonth": 3485,
     "timeYear": 2164,
     "dailyMinutesDown": {
       "2024-03-13": 752,
@@ -34,8 +34,7 @@
       "2023-08-04": 216,
       "2023-08-02": 76,
       "2023-08-01": 139,
-      "2023-06-22": 107,
-      "2023-03-18": 512
+      "2023-06-22": 107
     }
   },
   {
@@ -50,9 +49,9 @@
     "uptimeMonth": "98.29%",
     "uptimeYear": "98.79%",
     "time": 1050,
-    "timeDay": 841,
-    "timeWeek": 976,
-    "timeMonth": 952,
+    "timeDay": 989,
+    "timeWeek": 1007,
+    "timeMonth": 948,
     "timeYear": 1050,
     "dailyMinutesDown": {
       "2024-03-13": 751,
@@ -73,8 +72,7 @@
       "2023-08-04": 215,
       "2023-08-02": 74,
       "2023-08-01": 138,
-      "2023-06-22": 105,
-      "2023-03-18": 509
+      "2023-06-22": 105
     }
   },
   {
@@ -89,8 +87,8 @@
     "uptimeMonth": "98.29%",
     "uptimeYear": "98.80%",
     "time": 1051,
-    "timeDay": 779,
-    "timeWeek": 974,
+    "timeDay": 893,
+    "timeWeek": 964,
     "timeMonth": 876,
     "timeYear": 1051,
     "dailyMinutesDown": {
@@ -112,8 +110,7 @@
       "2023-08-04": 213,
       "2023-08-02": 60,
       "2023-08-01": 133,
-      "2023-06-22": 104,
-      "2023-03-18": 503
+      "2023-06-22": 104
     }
   },
   {
@@ -128,9 +125,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 250,
-    "timeDay": 201,
-    "timeWeek": 276,
-    "timeMonth": 236,
+    "timeDay": 271,
+    "timeWeek": 297,
+    "timeMonth": 242,
     "timeYear": 250,
     "dailyMinutesDown": {
       "2023-10-30": 24
@@ -148,9 +145,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.50%",
     "time": 3128,
-    "timeDay": 2884,
-    "timeWeek": 2859,
-    "timeMonth": 3223,
+    "timeDay": 3004,
+    "timeWeek": 2734,
+    "timeMonth": 3236,
     "timeYear": 3128,
     "dailyMinutesDown": {
       "2024-02-02": 143,
@@ -171,18 +168,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eseade.instructure.com.ico",
     "slug": "canvas",
     "status": "down",
-    "uptime": "57.35%",
+    "uptime": "57.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "57.35%",
+    "uptimeYear": "57.17%",
     "time": 697,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-03-16": 24,
+      "2024-03-17": 28,
+      "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -353,12 +351,13 @@
     "uptimeMonth": "4.67%",
     "uptimeYear": "0.00%",
     "time": 259,
-    "timeDay": 100,
-    "timeWeek": 192,
-    "timeMonth": 217,
+    "timeDay": 305,
+    "timeWeek": 200,
+    "timeMonth": 214,
     "timeYear": 259,
     "dailyMinutesDown": {
-      "2024-03-16": 24,
+      "2024-03-17": 28,
+      "2024-03-16": 1440,
       "2024-03-15": 1440,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
@@ -721,8 +720,7 @@
       "2023-03-22": 1440,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
-      "2023-03-19": 1440,
-      "2023-03-18": 1440
+      "2023-03-19": 1440
     }
   }
 ]
