@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.92%",
-    "time": 2385,
-    "timeDay": 1724,
-    "timeWeek": 1710,
-    "timeMonth": 2617,
-    "timeYear": 2464,
+    "uptimeYear": "98.93%",
+    "time": 2383,
+    "timeDay": 923,
+    "timeWeek": 1591,
+    "timeMonth": 2538,
+    "timeYear": 2463,
     "dailyMinutesDown": {
       "2024-07-16": 60,
       "2024-03-13": 752,
@@ -31,8 +31,7 @@
       "2023-09-18": 172,
       "2023-08-07": 776,
       "2023-08-06": 1440,
-      "2023-08-05": 772,
-      "2023-08-04": 216
+      "2023-08-05": 772
     }
   },
   {
@@ -41,16 +40,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fa.eseade.edu.ar.ico",
     "slug": "fusionauth",
     "status": "up",
-    "uptime": "99.11%",
+    "uptime": "99.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "98.92%",
-    "time": 1024,
-    "timeDay": 771,
-    "timeWeek": 849,
-    "timeMonth": 1006,
-    "timeYear": 1042,
+    "uptimeYear": "98.94%",
+    "time": 1023,
+    "timeDay": 870,
+    "timeWeek": 850,
+    "timeMonth": 1005,
+    "timeYear": 1043,
     "dailyMinutesDown": {
       "2024-07-16": 59,
       "2024-03-13": 751,
@@ -67,8 +66,7 @@
       "2023-09-18": 170,
       "2023-08-07": 776,
       "2023-08-06": 1440,
-      "2023-08-05": 771,
-      "2023-08-04": 215
+      "2023-08-05": 771
     }
   },
   {
@@ -81,12 +79,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "98.93%",
+    "uptimeYear": "98.94%",
     "time": 980,
-    "timeDay": 791,
-    "timeWeek": 820,
-    "timeMonth": 856,
-    "timeYear": 959,
+    "timeDay": 823,
+    "timeWeek": 839,
+    "timeMonth": 857,
+    "timeYear": 903,
     "dailyMinutesDown": {
       "2024-07-16": 57,
       "2024-03-13": 749,
@@ -103,8 +101,7 @@
       "2023-09-18": 169,
       "2023-08-07": 776,
       "2023-08-06": 1440,
-      "2023-08-05": 769,
-      "2023-08-04": 213
+      "2023-08-05": 769
     }
   },
   {
@@ -119,9 +116,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 249,
-    "timeDay": 220,
-    "timeWeek": 285,
-    "timeMonth": 265,
+    "timeDay": 251,
+    "timeWeek": 282,
+    "timeMonth": 266,
     "timeYear": 248,
     "dailyMinutesDown": {
       "2023-10-30": 24
@@ -138,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.58%",
-    "time": 3012,
-    "timeDay": 2943,
-    "timeWeek": 3013,
-    "timeMonth": 2754,
-    "timeYear": 3058,
+    "time": 3013,
+    "timeDay": 3775,
+    "timeWeek": 3118,
+    "timeMonth": 2780,
+    "timeYear": 3062,
     "dailyMinutesDown": {
       "2024-07-16": 56,
       "2024-03-25": 18,
@@ -159,18 +156,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eseade.instructure.com.ico",
     "slug": "canvas",
     "status": "down",
-    "uptime": "41.51%",
+    "uptime": "41.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "19.36%",
+    "uptimeYear": "19.09%",
     "time": 697,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-08-02": 30,
+      "2024-08-03": 29,
+      "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -480,12 +478,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 242,
-    "timeDay": 108,
-    "timeWeek": 165,
-    "timeMonth": 201,
+    "timeDay": 122,
+    "timeWeek": 157,
+    "timeMonth": 202,
     "timeYear": 233,
     "dailyMinutesDown": {
-      "2024-08-02": 30,
+      "2024-08-03": 29,
+      "2024-08-02": 1440,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -848,8 +847,7 @@
       "2023-08-08": 1440,
       "2023-08-07": 1440,
       "2023-08-06": 1440,
-      "2023-08-05": 1440,
-      "2023-08-04": 1440
+      "2023-08-05": 1440
     }
   }
 ]
