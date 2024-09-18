@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/educat.eseade.edu.ar.ico",
     "slug": "educat",
     "status": "down",
-    "uptime": "94.74%",
+    "uptime": "94.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.67%",
-    "uptimeYear": "92.85%",
-    "time": 2365,
-    "timeDay": 974,
-    "timeWeek": 980,
-    "timeMonth": 1438,
-    "timeYear": 2477,
+    "uptimeMonth": "16.37%",
+    "uptimeYear": "92.57%",
+    "time": 2362,
+    "timeDay": 790,
+    "timeWeek": 939,
+    "timeMonth": 1363,
+    "timeYear": 2476,
     "dailyMinutesDown": {
-      "2024-09-17": 27,
+      "2024-09-18": 32,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -52,8 +53,7 @@
       "2023-09-28": 203,
       "2023-09-26": 218,
       "2023-09-25": 21,
-      "2023-09-22": 202,
-      "2023-09-19": 56
+      "2023-09-22": 202
     }
   },
   {
@@ -62,15 +62,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/fa.eseade.edu.ar.ico",
     "slug": "fusionauth",
     "status": "up",
-    "uptime": "97.19%",
+    "uptime": "97.20%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "63.96%",
     "uptimeYear": "96.54%",
     "time": 1026,
-    "timeDay": 781,
-    "timeWeek": 964,
-    "timeMonth": 926,
+    "timeDay": 872,
+    "timeWeek": 927,
+    "timeMonth": 923,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2024-09-03": 791,
@@ -95,8 +95,7 @@
       "2023-09-28": 201,
       "2023-09-26": 216,
       "2023-09-25": 20,
-      "2023-09-22": 196,
-      "2023-09-19": 56
+      "2023-09-22": 196
     }
   },
   {
@@ -111,9 +110,9 @@
     "uptimeMonth": "63.96%",
     "uptimeYear": "96.55%",
     "time": 980,
-    "timeDay": 761,
-    "timeWeek": 866,
-    "timeMonth": 847,
+    "timeDay": 780,
+    "timeWeek": 827,
+    "timeMonth": 842,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2024-09-03": 791,
@@ -138,8 +137,7 @@
       "2023-09-28": 200,
       "2023-09-26": 215,
       "2023-09-25": 18,
-      "2023-09-22": 194,
-      "2023-09-19": 56
+      "2023-09-22": 194
     }
   },
   {
@@ -154,9 +152,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 261,
+    "timeDay": 222,
     "timeWeek": 255,
-    "timeMonth": 245,
+    "timeMonth": 243,
     "timeYear": 246,
     "dailyMinutesDown": {
       "2023-10-30": 24
@@ -169,15 +167,15 @@
     "slug": "home",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "57.16%",
-    "uptimeWeek": "66.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "73.72%",
     "uptimeMonth": "90.27%",
     "uptimeYear": "98.45%",
-    "time": 3104,
-    "timeDay": 2714,
-    "timeWeek": 3910,
-    "timeMonth": 3834,
-    "timeYear": 3193,
+    "time": 3103,
+    "timeDay": 3338,
+    "timeWeek": 2995,
+    "timeMonth": 3871,
+    "timeYear": 3194,
     "dailyMinutesDown": {
       "2024-09-16": 644,
       "2024-09-15": 673,
@@ -204,18 +202,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/eseade.instructure.com.ico",
     "slug": "canvas",
     "status": "down",
-    "uptime": "38.03%",
+    "uptime": "37.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.76%",
+    "uptimeYear": "6.49%",
     "time": 697,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 697,
     "dailyMinutesDown": {
-      "2024-09-17": 27,
+      "2024-09-18": 33,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -571,12 +570,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 233,
-    "timeDay": 122,
-    "timeWeek": 267,
-    "timeMonth": 199,
+    "timeDay": 116,
+    "timeWeek": 228,
+    "timeMonth": 193,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2024-09-17": 27,
+      "2024-09-18": 33,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -939,8 +939,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   }
 ]
