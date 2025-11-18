@@ -16,7 +16,7 @@
     "timeMonth": 960,
     "timeYear": 10144,
     "dailyMinutesDown": {
-      "2025-11-18": 956,
+      "2025-11-18": 974,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 974,
     "timeYear": 10176,
     "dailyMinutesDown": {
-      "2025-11-18": 956,
+      "2025-11-18": 974,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -943,19 +943,19 @@
     "url": "https://app.eseade.edu.ar",
     "icon": "https://icons.duckduckgo.com/ip3/app.eseade.edu.ar.ico",
     "slug": "campus",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "89.80%",
-    "uptimeWeek": "98.54%",
-    "uptimeMonth": "99.66%",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "88.50%",
+    "uptimeWeek": "98.36%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 275,
-    "timeDay": 249,
-    "timeWeek": 319,
-    "timeMonth": 276,
+    "timeDay": 253,
+    "timeWeek": 317,
+    "timeMonth": 277,
     "timeYear": 284,
     "dailyMinutesDown": {
-      "2025-11-18": 146
+      "2025-11-18": 165
     }
   },
   {
@@ -1023,8 +1023,8 @@
     "uptime": "29.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "63.85%",
-    "uptimeYear": "21.66%",
+    "uptimeMonth": "63.90%",
+    "uptimeYear": "21.67%",
     "time": 10059,
     "timeDay": 704,
     "timeWeek": 616,
@@ -1337,7 +1337,7 @@
     "timeMonth": 248,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2025-11-18": 956,
+      "2025-11-18": 975,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
