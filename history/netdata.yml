@@ -1,7 +1,7 @@
 url: https://netdata.eseade.edu.ar
-status: down
-code: 522
-responseTime: 19725
-lastUpdated: 2025-11-29T14:35:35.625Z
+status: up
+code: 200
+responseTime: 816
+lastUpdated: 2025-11-29T14:43:08.660Z
 startTime: 2023-03-17T16:55:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>
