@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/educat.eseade.edu.ar.ico",
     "slug": "educat",
     "status": "up",
-    "uptime": "50.41%",
+    "uptime": "50.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.45%",
-    "uptimeYear": "6.36%",
-    "time": 7241,
-    "timeDay": 985,
-    "timeWeek": 1500,
-    "timeMonth": 1095,
-    "timeYear": 9139,
+    "uptimeMonth": "87.63%",
+    "uptimeYear": "6.64%",
+    "time": 7240,
+    "timeDay": 741,
+    "timeWeek": 1442,
+    "timeMonth": 1071,
+    "timeYear": 9081,
     "dailyMinutesDown": {
       "2026-02-04": 1162,
       "2026-02-03": 1440,
@@ -355,8 +355,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -365,16 +364,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fa.eseade.edu.ar.ico",
     "slug": "fusionauth",
     "status": "up",
-    "uptime": "63.62%",
+    "uptime": "63.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.45%",
-    "uptimeYear": "6.48%",
+    "uptimeMonth": "87.63%",
+    "uptimeYear": "6.76%",
     "time": 7458,
-    "timeDay": 793,
-    "timeWeek": 1163,
-    "timeMonth": 1045,
-    "timeYear": 9078,
+    "timeDay": 759,
+    "timeWeek": 1102,
+    "timeMonth": 1039,
+    "timeYear": 9054,
     "dailyMinutesDown": {
       "2026-02-04": 1162,
       "2026-02-03": 1440,
@@ -715,8 +714,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -725,16 +723,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/netdata.eseade.edu.ar.ico",
     "slug": "netdata",
     "status": "up",
-    "uptime": "74.41%",
+    "uptime": "74.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "74.45%",
-    "uptimeYear": "38.35%",
+    "uptimeMonth": "87.63%",
+    "uptimeYear": "38.63%",
     "time": 6943,
-    "timeDay": 751,
-    "timeWeek": 1033,
-    "timeMonth": 986,
-    "timeYear": 8883,
+    "timeDay": 734,
+    "timeWeek": 1000,
+    "timeMonth": 926,
+    "timeYear": 8862,
     "dailyMinutesDown": {
       "2026-02-04": 1162,
       "2026-02-03": 1440,
@@ -963,8 +961,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -979,8 +976,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.96%",
     "time": 288,
-    "timeDay": 205,
-    "timeWeek": 429,
+    "timeDay": 185,
+    "timeWeek": 418,
     "timeMonth": 340,
     "timeYear": 298,
     "dailyMinutesDown": {
@@ -999,11 +996,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 2996,
-    "timeDay": 103,
-    "timeWeek": 1455,
-    "timeMonth": 851,
-    "timeYear": 2433,
+    "time": 2990,
+    "timeDay": 159,
+    "timeWeek": 1102,
+    "timeMonth": 806,
+    "timeYear": 2427,
     "dailyMinutesDown": {
       "2025-11-18": 138,
       "2025-11-03": 17,
@@ -1029,16 +1026,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/eseade.instructure.com.ico",
     "slug": "canvas",
     "status": "up",
-    "uptime": "36.11%",
+    "uptime": "36.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "33.37%",
-    "time": 7621,
-    "timeDay": 365,
-    "timeWeek": 711,
-    "timeMonth": 813,
-    "timeYear": 8780,
+    "uptimeYear": "33.65%",
+    "time": 7603,
+    "timeDay": 482,
+    "timeWeek": 695,
+    "timeMonth": 588,
+    "timeYear": 8755,
     "dailyMinutesDown": {
       "2025-10-29": 949,
       "2025-10-28": 1440,
@@ -1281,8 +1278,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   },
   {
@@ -1294,15 +1290,16 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
     "time": 224,
-    "timeDay": 127,
-    "timeWeek": 218,
-    "timeMonth": 215,
-    "timeYear": 235,
+    "timeDay": 212,
+    "timeWeek": 212,
+    "timeMonth": 207,
+    "timeYear": 234,
     "dailyMinutesDown": {
-      "2026-02-28": 50,
+      "2026-03-01": 63,
+      "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
       "2026-02-25": 1440,
@@ -1665,8 +1662,7 @@
       "2025-03-05": 1440,
       "2025-03-04": 1440,
       "2025-03-03": 1440,
-      "2025-03-02": 1440,
-      "2025-03-01": 1440
+      "2025-03-02": 1440
     }
   }
 ]
